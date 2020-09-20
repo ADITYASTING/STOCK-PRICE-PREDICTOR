@@ -1,2 +1,6 @@
 # STOCK-PRICE-PREDICTOR
 Using deep learning to predict future stock prices 
+
+
+
+NOTE: IN ORDER TO USE THE CODE, YOU NEED TO HAVE ALL THE PYTHON LIBRARIES INSTALLED.. 
